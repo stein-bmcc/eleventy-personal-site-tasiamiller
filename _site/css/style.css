@@ -1,0 +1,270 @@
+
+
+/*If using Google Fonts or other system to import fonts, then add import CSS for that above on line */
+
+
+/* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography 
+Much of this is modified from two original sources
+HTML 5 Doctor Reset: http://html5doctor.com/html-5-reset-stylesheet/
+This is in the public domain. It has been modified to remove things redundant with Normalize and separate out styles that may need to be styled separately.
+Normalize.css: git.io/normalize 
+The version modified is: normalize.css v3.0.1 | MIT License
+A few pieces of normalize.css that more directly affected typographic choices (such as font-family) were moved here so normalize.css could be more or less left alone.
+*/
+
+/* ==================================================================== 
+    RESPONSIVE PREPARATION 
+   ==================================================================== 
+   Use these "as is"
+*/
+
+/*The following 7 lines are from Paul Irish and apply a border-box model. 
+See this page for more info: http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  /* Basic Responsive Images and Video */
+  img,video{
+    width: auto; 
+    height: auto;
+    max-width: 100%; 
+  }
+  
+  
+  /* Embedded Video Styles
+      These can be used to help add embedded video content, like YouTube videos, to your page. 
+      These styles require you set up your HTML in a specific way. 
+      See this CodePen for an example of it in use: http://codepen.io/profstein/pen/mArLRj
+  */
+  
+  .videoWrapper {
+      position: relative;
+      padding-top: 25px;
+      height: 0;
+  }
+  
+  .videoWrapper.ratio-16-9{
+      padding-bottom: 56.25%; /* 16:9 aspect ratio video */
+  }
+  
+  .videoWrapper.ratio-4-3{
+      padding-bottom: 75%; /* 4:3 aspect ratio video */
+  }
+  
+  .videoWrapper iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+  
+  
+  /* ==========================================================================
+     Your CSS
+     You can change this comment and add in your own CSS below
+     ================================================== ======================= 
+  /* CSS here for every devices (import fonts, set base typography, base responsive styles, colors etc). */
+
+  body{
+    padding: 0;
+    margin: 0;
+    background: rgb(37,111,250);
+    background: linear-gradient(174deg, rgba(37,111,250,1) 15%, rgba(217,194,223,1) 68%); 
+  }
+
+  .site-header{
+    max-width: 1800px;
+    height: 70px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+  }
+.site-title h1{
+    float: left;
+   margin: 0%;
+}
+/* nav edit*/
+.header-nav{
+height: 50px;
+justify-content: space-around;
+display: inline-block;
+}
+
+.header-nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+    overflow: hidden;
+    display: inline-block;
+}
+ .header-nav li{
+    display: inline-block;
+    margin-left: 300px;
+    text-align: center;
+    padding: 5px 10px;
+    border: 1.5px solid #000000;
+ } 
+
+ li:hover{
+  background-color: lavender;
+ }
+ .header-nav li a{text-decoration: none;
+color: darkblue;
+display: inline-block;
+padding: 2px 16px;
+}
+
+.header-nav a:hover{
+  color: black;
+}
+/* end of nav edits*/
+.intro-text{
+  width:40%;
+  margin:15px;
+  float: left;
+}
+
+.intro-image{
+  float:right;
+  width:40%;
+  padding-top: 40px;
+}
+
+/*intro page end*/
+
+/*projects page*/
+.projects-intro{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 5px;
+  padding: 5px;
+}
+
+.project{
+  width: 70%;
+  border-radius: 5px;
+  margin-bottom: 0.5em;
+}
+
+.project:hover{
+filter: grayscale(100%);
+}
+.project img{
+  width: 100%;
+border-radius: 5px;
+}
+.img-txt{
+  position: absolute;
+  z-index: 600;
+  padding-bottom: 40px;
+  padding-left: 40px;
+}
+.img-txt h2{
+  text-align: center;
+}
+.ui-container,.graphic-design h1{
+  padding: 0.5em 0.5em 0 0.5em;
+}
+
+.ui-container,.graphic-design{
+  display: inline-block
+}
+
+
+.ui-container{
+  padding-left: 200px;
+}
+/*projects end*/
+.site-footer{
+  clear: both;
+}
+
+/*  Contact Page start*/
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*Contact Page End  */
+/* Css here for your base grid that applies to mobile devices */
+  
+
+@media (max-width: 600px){
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }/
+
+}/*   end min-width 600 */
+
+
+
+@media (min-width: 900px){
+
+     /* this applies to tablets */
+
+}/*   end min-width 900 */
+
+
+
+@media (min-width: 1200px){
+
+     /* this applies average laptops */
+
+}/*   end min-width 1200 */
+
+
+
+@media (min-width: 1800px){
+
+     /* this applies to large laptops and desktops */
+
+}/*   end min-width 1800 */
