@@ -241,7 +241,7 @@ input[type=submit]:hover {
   .column, input[type=submit] {
     width: 100%;
     margin-top: 0;
-  }/
+  }
 
 }/*   end min-width 600 */
 
