@@ -4,7 +4,6 @@ date: Created
 layout: base
 tags:
   - work
-  - ui ux
   - graphic design
 ---
 <h2 class="mainHeading">Main Content</h2>

@@ -3,9 +3,9 @@ title: Welcome
 date: Created
 layout: base
 tags:
-  - work
-  - ui ux
-  - graphic design
+  - contact
+  - welcome
+  - info
 ---
 <h2 class="mainHeading">Main Content</h2>
 <section class="content">
