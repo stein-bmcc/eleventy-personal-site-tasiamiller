@@ -26,13 +26,31 @@ siteTitle: Moni's Mindscape
     </head>
   <body>
     <header class="site-header">
+     <div class="site-title">
+        <h1>Moni's Mindscape</h1>
+       </div>
+
+       <div class="header-nav">
+
+        <nav>
+            <ul>
+                <li><a href="index.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+       </div>
       {% include "navigation.njk" %}
     </header>
   
-  <main class="main page-content">{{ content | safe }}</main>
+  <main class="main page-content">{{ content | safe }}
+
+  </main>
 
     <footer class="site-footer">
-      <!-- Add your footer content here -->
+        <div class="copyrights">
+<p> &copy; to Tasia Miller 2023</p>
+      </div>  
     </footer>
   </body>
     <!-- Load CDN version of jQuery. For other versions visit this page: https://code.jquery.com/jquery/ -->
