@@ -1,13 +1,11 @@
 ---
-title: Welcome
-date: Created
+title: Moni's Mindscape
 layout: base
 tags:
   - home
   - welcome
   - info
 ---
- <main id="main">
 <div class="intro-text">
 <h1> Meet Moni: The Mind Behind the 'Scape</h1>
 <p>
@@ -17,5 +15,4 @@ tags:
 <div class="intro-image">
 <img src="/images/moni.png" alt="A cartoon image of Moni">
 </div>
-        <!-- add main page content here -->
-</main>
+

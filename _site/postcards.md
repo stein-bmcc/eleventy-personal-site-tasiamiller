@@ -1,6 +1,5 @@
 ---
 title: Costa Rica Postcard Design 
-date: Created
 layout: base
 tags:
   - work
