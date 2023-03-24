@@ -1,7 +1,7 @@
 ---
 title: Streaming Site Hero Banner Designs
 date: Created
-layout: base
+layout:base
 tags:
   - work
   - ui ux

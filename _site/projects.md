@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: base
+layout:base
 tags:
   - work
   - ui ux

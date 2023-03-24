@@ -1,7 +1,7 @@
 ---
 title: Ainima- Streaming Site Prototype
 date: Created
-layout: base
+layout:base
 tags:
   - work
   - ui ux

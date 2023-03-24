@@ -1,7 +1,6 @@
 ---
 title:Custom Playing Card Design Concept
-date: Created
-layout: base
+layout:base
 tags:
   - work
   - graphic design

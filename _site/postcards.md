@@ -1,6 +1,6 @@
 ---
 title: Costa Rica Postcard Design 
-layout: base
+layout:base
 tags:
   - work
   - graphic design

@@ -1,7 +1,7 @@
 ---
 title: Hello? This is Moni.
 date: Created
-layout: base
+layout:base
 tags:
   - contact
   - info

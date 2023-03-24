@@ -1,6 +1,6 @@
 ---
 title: Moni's Mindscape
-layout: base
+layout:base
 tags:
   - home
   - welcome
