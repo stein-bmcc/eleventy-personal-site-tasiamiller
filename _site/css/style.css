@@ -74,15 +74,14 @@ html {
   body{
     padding: 0;
     margin: 0;
-    background: rgb(37,111,250);
+    background:#d2c3de;
     background: linear-gradient(174deg, rgba(37,111,250,1) 15%, rgba(217,194,223,1) 68%); 
+    height: 100;
   }
 
   .site-header{
     max-width: 1800px;
     height: 70px;
-    background: rgb(238,174,202);
-    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
   }
 .site-title h1{
     float: left;
@@ -127,8 +126,12 @@ padding: 2px 16px;
   width:40%;
   margin:15px;
   float: left;
+  text-align: center;
 }
 
+.intro-text p{
+  line-height: 2em;
+}
 .intro-image{
   float:right;
   width:40%;
@@ -147,7 +150,7 @@ padding: 2px 16px;
 
 .project{
   width: 70%;
-  border-radius: 5px;
+  border-radius: 10px;
   margin-bottom: 0.5em;
 }
 
@@ -158,14 +161,11 @@ filter: grayscale(100%);
   width: 100%;
 border-radius: 5px;
 }
-.img-txt{
-  position: absolute;
-  z-index: 600;
-  padding-bottom: 40px;
-  padding-left: 40px;
-}
-.img-txt h2{
-  text-align: center;
+
+.graphic-design{
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 0.5em;
 }
 .ui-container,.graphic-design h1{
   padding: 0.5em 0.5em 0 0.5em;
@@ -208,13 +208,14 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #457fa0;
 }
 
 /* Style the container/contact section */
 .container {
+  margin: auto;
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #d2c3de;
   padding: 10px;
 }
 
