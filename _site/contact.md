@@ -1,10 +1,9 @@
 ---
 title: Hello? This is Moni.
-date: Created
-layout:base
+date: 
+layout: base
 tags:
   - contact
-  - info
 ---
 <main id="main">
   <div class="container">

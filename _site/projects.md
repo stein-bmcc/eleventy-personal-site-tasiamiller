@@ -1,10 +1,9 @@
 ---
 title: Projects
-layout:base
+layout: base
 tags:
-  - work
-  - ui ux
-  - graphic design
+  - graphic
+  - ux
 ---
 
   <div class="projects-intro">

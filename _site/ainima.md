@@ -1,9 +1,9 @@
 ---
-title: Ainima-Streaming Site Prototype
+title: Ainima Streaming Site 
 date: Created
-layout:base
-tags:-work
-     -ui
+layout: base
+tags:
+  - ux
 ---
   <section class="project-descrption">
   <h1>
