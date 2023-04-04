@@ -1,10 +1,8 @@
 ---
-title:Custom Playing Card Design Concept
-date: Created
+title: Custom Playing Card Design Concept
 layout: base
 tags:
-  - work
-  - graphic design
+  - design
 ---
 <section class="project-descrption">
   <h1>

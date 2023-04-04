@@ -2,9 +2,7 @@
 title: Moni's Mindscape
 layout: base
 tags:
-  - home
   - welcome
-  - info
 ---
 <div class="intro-text">
 <h1> Meet Moni: The Mind Behind the 'Scape</h1>

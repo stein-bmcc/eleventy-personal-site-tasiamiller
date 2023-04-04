@@ -1,10 +1,8 @@
 ---
 title: God Of HighSchool Show Website Prototype
-date: Created
 layout: base
 tags:
-  - work
-  - ui ux
+  - ux
   
 ---
 <main>

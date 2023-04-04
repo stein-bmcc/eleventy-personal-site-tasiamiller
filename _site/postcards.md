@@ -2,8 +2,7 @@
 title: Costa Rica Postcard Design 
 layout: base
 tags:
-  - work
-  - graphic design
+  - design
 ---
 <section class="project-descrption">
   <h1>
