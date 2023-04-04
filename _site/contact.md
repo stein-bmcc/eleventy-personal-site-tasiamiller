@@ -19,19 +19,19 @@ tags:
           </figure> 
       </div>
       <div class="column">
-        <form action="/action_page.php">
+        <form action="/action_page.php" data-netlify="true" data-netlify-recaptcha="true">
           <label for="fname">First Name</label>
           <input type="text" id="fname" name="firstname" placeholder="Your name..">
           <label for="lname">Last Name</label>
           <input type="text" id="lname" name="lastname" placeholder="Your last name..">
           <label for="country">Country</label>
           <select id="country" name="country">
-            <option value="australia">United States</option>
+            <option value="usa">United States</option>
             <option value="canada">Canada</option>
-            <option value="usa">Asia</option>
+            <option value="asia">Asia</option>
           </select>
           <label for="subject">Subject</label>
-          <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+          <textarea id="subject" name="subject" placeholder="Share your mind?" style="height:170px"></textarea>
           <input type="submit" value="Submit">
         </form>
       </div>
