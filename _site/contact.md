@@ -15,7 +15,7 @@ tags:
       <div class="column">
         <figure>
             <img src="/images/heartphone.jpg" alt="Hand drawn cell phone with hearts" style="width:100%">
-            <figcaption>Image by <a href="/https://www.freepik.com/free-vector/hand-drawn-conversation-hearts-illustration_21755575.htm#query=anime%20phone&position=18&from_view=search&track=ais">Freepik</a></figcaption>
+            <figcaption>Image by <a href="https://www.freepik.com/free-vector/hand-drawn-conversation-hearts-illustration_21755575.htm#query=anime%20phone&position=18&from_view=search&track=ais">Freepik</a></figcaption>
           </figure> 
       </div>
       <div class="column">
