@@ -15,11 +15,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addDataExtension('yaml', contents => yaml.safeLoad(contents))
 
   eleventyConfig.addShortcode('clientTag', function(name) {
-    return `<a class="badge badge-secondary mr-2" href="/clients/${name}">${name}</a>`
+    return `<a class="badge badge-secondary mr-2" href="//clients/${name}">${name}</a>`
   })
 
   eleventyConfig.addPairedShortcode('pairedClient', function(data, name) {
-    return `${data} <a class="badge badge-secondary" href="/clients/${name}">${name}</a>`
+    return `${data} <a class="badge badge-secondary" href="//clients/${name}">${name}</a>`
   })
 
   eleventyConfig.addFilter('courseDate', dateObj => {
