@@ -87,6 +87,10 @@ html {
     float: left;
    margin: 0%;
 }
+.site-header a{
+  text-decoration: none;
+  color: #000000;
+}
 /* nav edit*/
 .header-nav{
 height: 50px;
@@ -106,7 +110,6 @@ display: inline-block;
     margin-left: 300px;
     text-align: center;
     padding: 5px 10px;
-    border: 1.5px solid #000000;
  } 
 
  li:hover{
@@ -115,7 +118,7 @@ display: inline-block;
  .header-nav li a{text-decoration: none;
 color: darkblue;
 display: inline-block;
-padding: 2px 16px;
+padding: 2px 8px;
 }
 
 .header-nav a:hover{
@@ -160,6 +163,7 @@ filter: grayscale(100%);
 .project img{
   width: 100%;
 border-radius: 5px;
+padding: 20px;
 }
 
 .graphic-design{
