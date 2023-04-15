@@ -11,7 +11,7 @@ tags:
      <div class="ui-container"> <!---ui container start-->
   <h1>UI/UX DESIGNS</h1>
   <div class="project">
-    <a href="/gohs-tv.html">
+    <a href="/gohs.html">
      <img src="/images/gohs about.jpg" alt="show-website-design"
      >
     </a>
