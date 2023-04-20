@@ -29,6 +29,7 @@ tags:
             <option value="usa">United States</option>
             <option value="canada">Canada</option>
             <option value="asia">Asia</option>
+            <option value="other">Other</option>
           </select>
           <label for="subject">Subject</label>
           <textarea id="subject" name="subject" placeholder="Share your mind?" style="height:170px"></textarea>
