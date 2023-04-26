@@ -10,7 +10,7 @@ tags:
      AINIMA ANIME STREAMING SITE CONCEPT
   </h1>
   <p>
-      For this assignment I was tasked with designing a Figma prototype for a responsive streaming website layout. I took inspiration from streaming sites I already use such as Viki, Netflix, and Crunchyroll. I chose to focus on an anime streaming site because there is not one that has access to every anime out there and I would Ainima to represent that so you would not need 4000 subscriptions just to watch every show you wanted to see. As for the name, I combined Ai or 愛, is a Japanese word for love, with Anime: Ai(Love) + Anime = Ainima - a tribute to my love for the anime genre.
+    For this assignment, I was tasked with designing a Figma prototype for a responsive streaming website layout. I took inspiration from streaming sites I already use such as Viki, Netflix, and Crunchyroll. I chose to focus on an anime streaming site because there is not one that has access to every anime out there and I wish for Ainima to represent that so you would not need 4000 subscriptions just to watch every show you wanted to see. As for the name, I combined Ai or 愛, is a Japanese word for love, with Anime: Ai(Love) + Anime = Ainima - a tribute to my love for the anime genre. 
   </p>
   </section>
   <section class="project-img">
