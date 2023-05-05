@@ -144,7 +144,7 @@ padding: 2px 8px;
 /*intro page end*/
 
 /*projects page*/
-.projects-intro{
+.project-card{
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 5px;
@@ -157,25 +157,25 @@ padding: 2px 8px;
   margin-bottom: 0.5em;
 }
 
-.project:hover{
+.project-card:hover{
 filter: grayscale(100%);
 }
-.project img{
+.project-card img{
   width: 100%;
 border-radius: 5px;
 padding: 20px;
 }
 
-.graphic-design{
+.title-card{
   width: 100%;
   border-radius: 5px;
   margin-bottom: 0.5em;
 }
-.ui-container,.graphic-design h1{
+.title-card h1{
   padding: 0.5em 0.5em 0 0.5em;
 }
 
-.ui-container,.graphic-design{
+.title-card{
   display: inline-block
 }
 
