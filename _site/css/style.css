@@ -202,10 +202,11 @@ padding: 20px;
 }
 
 .project-img{
+  margin: 2rem;
 border-radius: 15px;
 display: grid;
 grid-template-columns:repeat(auto-fit, minmax(450px,1fr));
-gap:20px;
+gap:30px;
 }
 
 .project-img h3{

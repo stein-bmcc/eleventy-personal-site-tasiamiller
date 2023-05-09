@@ -16,7 +16,7 @@ tags:
   </div>
 <div class="project">
   <a href="/ainima">
-  <img src="/images/ainima streaming desktop-1.jpg" alt="ainima-prototype"> </a>
+  <img src="/images/ainima desktop.jpg" alt="ainima-prototype"> </a>
   </div>  
 </div>  <!---ui container end-->
 
