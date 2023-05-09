@@ -15,7 +15,7 @@ For this assignment, I was tasked with designing a Figma prototype for a respons
 </section>
 <section class="project-img">
 <h3>The following are screenshots of the final product</h3>
-<img src="/images/ainima streaming desktop-1.jpg" alt="Ainima Desktop design">
+<img src="/images/ainima streaming desktop.png" alt="Ainima Desktop design">
 <img src="/images/ainima streaming tablet-1-1.jpg" alt="Ainima Tablet design">
 <img src="/images/ainima streaming mobile-1-1.jpg" alt="Ainima Phone view">
 </section>
