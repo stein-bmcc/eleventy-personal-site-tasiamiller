@@ -4,6 +4,7 @@ layout: base
 tags:
   - welcome
 ---
+<div class="intro">
 <div class="intro-text">
 <h1> Meet Moni: The Mind Behind the 'Scape</h1>
 <p>
@@ -13,4 +14,4 @@ tags:
 <div class="intro-image">
 <img src="/images/moni.png" alt="A cartoon image of Moni">
 </div>
-
+</div>
