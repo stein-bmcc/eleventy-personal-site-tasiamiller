@@ -19,6 +19,7 @@ For this assignment, I was tasked with designing a Figma prototype for a respons
 <img src="/images/ainima streaming tablet-1-1.jpg" alt="Ainima Tablet design">
 <img src="/images/ainima streaming mobile-1-1.jpg" alt="Ainima Phone view">
 </section>
+<h2><a href="/ux-ui">Back To UX/UI Desgins</a></h2>
 <section class="related-projects">
   <h2>More Like This</h2>
 <ul>

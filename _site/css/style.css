@@ -191,15 +191,18 @@ border-radius: 10px;
 margin-bottom: 0.5em;
 }
 
-.project-card:hover{
+.title-card-ux:hover{
+filter: grayscale(100%);
+}
+.title-card-gp:hover{
 filter: grayscale(100%);
 }
 .project-card img{
-border-radius: 5px;
 padding: 20px;
 }
 
 .project-img{
+border-radius: 15px
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(450px,1fr));
 gap: 20px;
@@ -221,16 +224,24 @@ padding: 0.5em 0.5em 0 0.5em;
 display: inline-block
 }
 
-.ui-container{
-padding-left: 200px;
-}
-
 .project-description{
 max-width: 70ch;
 margin: 0 auto;
 line-height: 1.5;
 }
 /*projects end*/
+/* ux page styling */
+.ui-container{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 3rem;
+  }
+
+.ui-container h1{
+grid-column:1/-1;
+text-align: center;
+}
+/* ux styling end */
 .site-footer{
 clear: both;
 text-align: center;

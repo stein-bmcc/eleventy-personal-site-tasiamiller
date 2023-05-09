@@ -15,4 +15,4 @@ tags:
       <img src="/images/AceRin-1.jpg" alt="Playing Cards Concept Designs"> </a>
    </div>
   </div>   <!-- graphic design container end -->
-  
+  <h2><a href="/projects">Back To Projects</a></h2>

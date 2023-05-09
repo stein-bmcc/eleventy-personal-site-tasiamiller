@@ -18,7 +18,7 @@ For this project, I was tasked with creating a two-page layout for a show of my 
 <img src="/images/gohs about.jpg" alt="The About Page">
 <img src="/images/gohs episodes.jpg" alt="episodes">
 </section>
-
+<h2><a href="/ux-ui">Back To UX/UI Desgins</a></h2>
 <section class="related-projects">
   <h2>More Like This</h2>
 <ul>

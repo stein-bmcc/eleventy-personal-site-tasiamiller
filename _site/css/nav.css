@@ -10,7 +10,6 @@ gap: 10px;
 flex-wrap: wrap;
 padding:10px;
 margin: 0;
-
 /*   Add this if you want the nav to stay at the top on scroll*/
 /*   position: sticky;
 top: 0; */
@@ -34,8 +33,9 @@ margin: 0;
     color: black;
 }
 .site-nav a{
+text-align: center;
 text-decoration: none;
-padding-left: 15px;
+padding: 1rem;
 color: black;
 }
 .site-nav a:hover{
