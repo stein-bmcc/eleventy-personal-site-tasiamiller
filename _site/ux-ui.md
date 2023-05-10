@@ -8,15 +8,15 @@ tags:
 <h1>UI/UX DESIGNS</h1>
 <div class="project">
 <a href="/streaming-hero">
-<img src="/images/music site hero banner figma prototype.png" alt="streaming-site-hero-prototype"> </a>
+<img src="/images/streamingcover.jpg" alt="streaming-site-hero-prototype"> </a>
 </div>
 <div class="project">
   <a href="/gohs">
-  <img src="/images/gohs about.jpg" alt="show-website-design"></a>
+  <img src="/images/gohscover.jpg" alt="show-website-design"></a>
   </div>
 <div class="project">
   <a href="/ainima">
-  <img src="/images/ainima desktop.jpg" alt="ainima-prototype"> </a>
+  <img src="/images/ainimacover.jpg" alt="ainima-prototype"> </a>
   </div>  
 </div>  <!---ui container end-->
 
