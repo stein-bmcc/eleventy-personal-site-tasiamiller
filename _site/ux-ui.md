@@ -35,4 +35,6 @@ tags:
 
 </div>  <!---ui container end-->
 
-<h2><a href="/projects">Back To Projects</a></h2>
+<div class="back-button">
+  <h3><a href="/projects">Back To Projects</a></h3>
+</div>

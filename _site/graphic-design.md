@@ -4,15 +4,25 @@ layout: base
 tags:
   - graphic
 ---
-<div class="graphic-design">  <!---graphic design container start-->
-    <h1>GRAPHIC DESIGNS</h1>
-   <div class="project">
-    <a href="/postcards">
-      <img src="/images/Postcard01.jpg" alt="Costa Rica Postcard Designs"> </a>
-   </div>
-   <div class="project">
-    <a href="/playing-cards">
-      <img src="/images/AceRin-1.jpg" alt="Playing Cards Concept Designs"> </a>
-   </div>
-  </div>   <!-- graphic design container end -->
-  <h2><a href="/projects">Back To Projects</a></h2>
+<div class="project-container">
+  <a href="/postcards" class="card-link" >
+    <div class="card">
+      <img src="/images/postcardcover.jpg" alt="#">
+      <div class="card-body" >
+  <h3> Streaming Site Hero Banner Concepts</h3>
+        <p>Circa 2022 </p>
+      </div>
+    </div>
+  </a>
+  <a href="/playing-cards" class="card-link" >
+    <div class="card">
+      <img src="/images/playcardcover.jpg" alt="#">
+      <div class="card-body" >
+  <h3> Custom Playing Card Designs</h3>
+        <p>Circa 2021 </p>
+      </div>
+    </div>
+  </a>
+  <div class="back-button">
+    <h3><a href="/projects">Back To Projects</a></h3>
+  </div>

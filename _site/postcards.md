@@ -18,7 +18,6 @@ I was tasked with designing a few postcards for Costa Rica using pictures my pro
 <img src="/images/Postcard02.jpg" alt="Image features a beautiful sunset with the costa rica logo">
 <img src="/images/Postcard03.jpg" alt="Image features a baby sloth in a tree with the costa rica logo">
 </section>
-<h2><a href="/graphic-design">Back To Graphic Design</a></h2>
 <section class="related-projects">
   <h2>More Like This</h2>
 <ul>
@@ -27,3 +26,6 @@ I was tasked with designing a few postcards for Costa Rica using pictures my pro
 {% endfor %}
 </ul>
 </section>
+<div class="back-button">
+  <h3><a href="/graphic-design">Back To Graphic Design</a></h3>
+</div>

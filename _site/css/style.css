@@ -248,6 +248,9 @@ clear: both;
 text-align: center;
 }
 
+.back-button{
+  clear: both;
+}
 /*  Contact Page start*/
 * {
 box-sizing: border-box;

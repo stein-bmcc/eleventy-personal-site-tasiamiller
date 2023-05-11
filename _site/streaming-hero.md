@@ -24,7 +24,6 @@ Two hero design banners:
 <img src="/images/movie streaming site figma proto.png" alt="movie streaming site">
 <img src="/images/music site hero banner figma prototype.png" alt="music streaming site">
 </section>
-<h2><a href="/ux-ui">Back To UX/UI Desgins</a></h2>
 <section class="related-projects">
   <h2>More Like This</h2>
 <ul>
@@ -33,3 +32,6 @@ Two hero design banners:
 {% endfor %}
 </ul>
 </section>
+<div class="back-button">
+  <h3><a href="/ux-ui">Back To UX/UI Desgins</a></h3>
+</div>

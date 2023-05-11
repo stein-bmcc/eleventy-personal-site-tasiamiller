@@ -21,7 +21,6 @@ I created a custom playing card game based on Anime characters and a mobile Otom
 <img src="/images/KingOfClubs-1.jpg" alt="Obey Me: Satan Playing Card">
 <img src="/images/AceSolomon-1.jpg" alt="Obey Me: Solomon Playing Card">
 </section>
-<h2><a href="/graphic-design">Back To Graphic Design</a></h2>
 <section class="related-projects">
   <h2>More Like This</h2>
 <ul>
@@ -30,3 +29,6 @@ I created a custom playing card game based on Anime characters and a mobile Otom
 {% endfor %}
 </ul>
 </section>
+<div class="back-button">
+  <h3><a href="/graphic-design">Back To Graphic Design</a></h3>
+</div>
