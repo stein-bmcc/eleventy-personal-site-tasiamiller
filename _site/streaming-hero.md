@@ -1,6 +1,7 @@
 ---
 title: Streaming Site Hero Banner Designs
 layout: base
+pageClass: twoCol
 tags:
   - ux
   

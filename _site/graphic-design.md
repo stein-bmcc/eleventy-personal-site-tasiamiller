@@ -1,6 +1,7 @@
 ---
 title: Graphic Design Projects 
 layout: base
+pageClass: threeCol
 tags:
   - graphic
 ---

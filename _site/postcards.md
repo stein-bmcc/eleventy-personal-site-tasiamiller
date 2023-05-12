@@ -1,6 +1,7 @@
 ---
 title: Costa Rica Postcard Design 
 layout: base
+pageClass: threeCol
 tags:
   - design
 ---

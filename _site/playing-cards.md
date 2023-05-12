@@ -1,6 +1,7 @@
 ---
 title: Custom Playing Card Design Concept
 layout: base
+pageClass: threeCol
 tags:
   - design
 ---

@@ -1,6 +1,7 @@
 ---
 title: UX/UI Designs
 layout: base
+pageClass: threeCol
 tags:
   - ux-projects
 ---

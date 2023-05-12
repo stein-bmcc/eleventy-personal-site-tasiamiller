@@ -208,7 +208,12 @@ display: grid;
 grid-template-columns:repeat(auto-fit, minmax(450px,1fr));
 gap:30px;
 }
-
+.twoCol .project-img{
+  grid-template-columns: 1fr 1fr;
+}
+.threeCol .project-img{
+  grid-template-columns: 1fr 1fr 1fr; 
+}
 .project-img h3{
 grid-column:1/-1;
 text-align: center;

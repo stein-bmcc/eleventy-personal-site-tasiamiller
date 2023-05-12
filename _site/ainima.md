@@ -2,6 +2,7 @@
 title: Ainima Streaming Site 
 date: Created
 layout: base
+pageClass: threeCol
 tags:
   - ux
 ---

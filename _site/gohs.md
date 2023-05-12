@@ -1,6 +1,7 @@
 ---
 title: God Of HighSchool Show Website Prototype
 layout: base
+pageClass: twoCol
 tags:
   - ux
   

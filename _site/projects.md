@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: base
+pageClass: threeCol
 tags:
 - projects
 ---
