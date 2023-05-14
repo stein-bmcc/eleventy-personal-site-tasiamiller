@@ -16,8 +16,17 @@ For this project, I was tasked with creating a two-page layout for a show of my 
 </section>
 <section class="project-img">
 <h3>The following are screenshots of the final product</h3>
-<img src="/images/gohs about.jpg" alt="The About Page">
-<img src="/images/gohs episodes.jpg" alt="episodes">
+<figure>
+  <img src="/images/gohs about.jpg" alt="The About Page">
+    <figcaption>About Page</figcaption>
+  </img>
+</figure>
+<figure>
+  <img src="/images/gohs episodes.jpg" alt="episodes">
+    <figcaption>Episodes Page</figcaption>
+  </img>
+</figure>
+
 </section>
 <section class="related-projects">
   <h2>More Like This</h2>

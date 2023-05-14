@@ -16,9 +16,21 @@ For this assignment, I was tasked with designing a Figma prototype for a respons
 </section>
 <section class="project-img">
 <h3>The following are screenshots of the final product</h3>
-<img src="/images/ainima_streaming_desktop.jpg" alt="Ainima Desktop design">
-<img src="/images/ainima streaming tablet-1-1.jpg" alt="Ainima Tablet design">
-<img src="/images/ainima streaming mobile-1-1.jpg" alt="Ainima Phone view">
+<figure>
+  <img src="/images/ainima_streaming_desktop.jpg" alt="Ainima Desktop design">
+    <figcaption>Ainima Desktop Design</figcaption>
+  </img>
+</figure>
+<figure>
+  <img src="/images/ainima streaming tablet-1-1.jpg" alt="Ainima Tablet design">
+    <figcaption>Ainima Tablet Design</figcaption>
+  </img>
+</figure>
+<figure>
+  <img src="/images/ainima streaming mobile-1-1.jpg" alt="Ainima Phone view">
+    <figcaption>Ainima Mobile Design</figcaption>
+  </img>
+</figure>
 </section>
 <section class="related-projects">
   <h2>More Like This</h2>

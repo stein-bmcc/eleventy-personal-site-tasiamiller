@@ -15,9 +15,21 @@ I was tasked with designing a few postcards for Costa Rica using pictures my pro
 </section>
 <section class="project-img">
 <h3>The following are screenshots of the final product</h3>
-<img src="/images/Postcard01.jpg" alt="Postcard design one featuring a toucan in a tree">
-<img src="/images/Postcard02.jpg" alt="Image features a beautiful sunset with the costa rica logo">
-<img src="/images/Postcard03.jpg" alt="Image features a baby sloth in a tree with the costa rica logo">
+<figure>
+  <img src="/images/Postcard01.jpg" alt="Postcard design one featuring a toucan in a tree">
+    <figcaption>Postcard design one featuring a toucan in a tree</figcaption>
+  </img>
+</figure>
+<figure>
+  <img src="/images/Postcard02.jpg" alt="Image features a beautiful sunset with the costa rica logo">
+    <figcaption>Image features a beautiful sunset with the costa rica logo</figcaption>
+  </img>
+</figure>
+<figure>
+  <img src="/images/Postcard03.jpg" alt="Image features a baby sloth in a tree with the costa rica logo">
+    <figcaption>Image features a baby sloth in a tree with the costa rica logo</figcaption>
+  </img>
+</figure>
 </section>
 <section class="related-projects">
   <h2>More Like This</h2>
