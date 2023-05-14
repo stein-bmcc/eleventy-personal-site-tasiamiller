@@ -246,6 +246,10 @@ grid-template-columns: 1fr 1fr 1fr;
 gap: 3rem;
 }
 
+ul li a{
+  text-decoration: none;
+  color: #457fa0;
+}
 .ui-container h1{
 grid-column:1/-1;
 text-align: center;
