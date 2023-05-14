@@ -19,14 +19,7 @@ Makerspace Campaign Project
 <h3>The following are screenshots of our process</h3>
 
 </section>
-<section class="related-projects">
-  <h2>More Like This</h2>
-<ul>
-{% for project in collections.design -%}
-<li><a href="{{project.url}}">{{project.data.title}}</a></li>
-{% endfor %}
-</ul>
-</section>
+
 <div class="back-button">
-  <h3><a href="/graphic-design">Back To Graphic Design</a></h3>
+  <h3><a href="/projects">Back To Projects</a></h3>
 </div>
