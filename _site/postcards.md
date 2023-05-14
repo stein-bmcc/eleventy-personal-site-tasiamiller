@@ -10,7 +10,7 @@ tags:
 Costa Rica Postcard Designs
 </h1>
 <p>
-I was tasked with designing a few postcards for Costa Rica using pictures my professor provided to the students in my graphic design course. I strived to create a balanced yet dynamic composition by cropping and arranging these images. I chose logos from the selection given to me that stood out the most against their respective background without overpowering the image completely.
+I was tasked with designing a few postcards for Costa Rica using pictures my professor provided to the students in my graphic design course. I strived to create a balanced yet dynamic composition by cropping and arranging these images. I chose logos from the selection given to me that stood out the most against their respective background without overpowering the image.
 </p>
 </section>
 <section class="project-img">
