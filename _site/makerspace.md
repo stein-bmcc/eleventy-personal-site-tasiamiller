@@ -2,7 +2,7 @@
 title: Makerspace Campaign Project
 layout: base
 tags:
-  - design
+  - campaign
 ---
 <section class="project-description">
 <h1>
