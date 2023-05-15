@@ -255,9 +255,18 @@ grid-template-columns: 1fr 1fr 1fr;
 gap: 3rem;
 }
 
-ul li a{
+.related-projects a{
   text-decoration: none;
+  color: #040d12;
+}
+.related-projects a:hover{
   color: #457fa0;
+}
+.related-projects a:visited{
+color: #520fb6;
+}
+.related-projects a:visited:hover{
+  color: #9b287e;
 }
 .ui-container h1{
 grid-column:1/-1;
