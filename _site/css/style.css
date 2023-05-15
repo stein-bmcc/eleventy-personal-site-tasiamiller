@@ -202,20 +202,20 @@ padding: 20px;
 }
 
 .project-img{
-  margin: 2rem;
+margin: 2rem;
 border-radius: 15px;
 display: grid;
 grid-template-columns:repeat(auto-fit, minmax(450px,1fr));
 gap:30px;
 }
 .twoCol .project-img{
-  grid-template-columns: 1fr 1fr;
+grid-template-columns: 1fr 1fr;
 }
 .threeCol .project-img{
-  grid-template-columns: 1fr 1fr 1fr; 
+grid-template-columns: 1fr 1fr 1fr; 
 }
 .oneCol .project-img{
-  grid-template-columns: 1fr;
+grid-template-columns: 1fr;
 }
 .project-img h3{
 grid-column:1/-1;
@@ -240,11 +240,11 @@ line-height: 1.5;
 }
 
 .project-description p a{
-  text-decoration: none;
-  color: #170713;
+text-decoration: none;
+color: #170713;
 }
 .project-description p a:hover{
-  color: #9b287e; 
+color: #9b287e; 
 }
 
 /*projects end*/
@@ -256,17 +256,17 @@ gap: 3rem;
 }
 
 .related-projects a{
-  text-decoration: none;
-  color: #040d12;
+text-decoration: none;
+color: #040d12;
 }
 .related-projects a:hover{
-  color: #457fa0;
+color: #457fa0;
 }
 .related-projects a:visited{
 color: #520fb6;
 }
 .related-projects a:visited:hover{
-  color: #9b287e;
+color: #9b287e;
 }
 .ui-container h1{
 grid-column:1/-1;
@@ -279,15 +279,15 @@ text-align: center;
 }
 
 .back-button{
-  clear: both;
+clear: both;
 }
 .back-button h3 a{
- text-decoration: none;
- color: #333;
- 
+text-decoration: none;
+color: #333;
+
 }
 .back-button h3 a:hover{
-  color: #9b287e;
+color: #9b287e;
 }
 /*  Contact Page start*/
 * {
@@ -343,17 +343,17 @@ clear: both;
 /* Css here for your base grid that applies to mobile devices */
 
 
-@media (min-width: 680px){
+@media (max-width: 650px){
 .column, input[type=submit] {
 width: 100%;
-margin-top: 0;
-}
+margin-top: 0;}
+
 .project-card{
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 40px;
-  padding: 5px 30px;
-  }
+display: grid;
+grid-template-columns:1fr;
+gap: 40px;
+padding: 5px 30px;
+}
 
 
 }/*   end min-width 600 */
@@ -362,12 +362,12 @@ margin-top: 0;
 
 @media (max-width: 900px){
 
-  .project-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    padding: 5px 30px;
-    }
+.project-card{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 40px;
+padding: 5px 30px;
+}
 
 }/*   end min-width 900 */
 
@@ -375,12 +375,12 @@ margin-top: 0;
 
 @media (min-width: 1200px){
 
-  .project-card{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 40px;
-    padding: 5px 30px;
-    }
+.project-card{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 40px;
+padding: 5px 30px;
+}
 
 }/*   end min-width 1200 */
 
