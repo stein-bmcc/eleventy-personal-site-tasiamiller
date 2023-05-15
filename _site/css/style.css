@@ -343,19 +343,31 @@ clear: both;
 /* Css here for your base grid that applies to mobile devices */
 
 
-@media (max-width: 600px){
+@media (min-width: 680px){
 .column, input[type=submit] {
 width: 100%;
 margin-top: 0;
 }
+.project-card{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  padding: 5px 30px;
+  }
+
 
 }/*   end min-width 600 */
 
 
 
-@media (min-width: 900px){
+@media (max-width: 900px){
 
-/* this applies to tablets */
+  .project-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    padding: 5px 30px;
+    }
 
 }/*   end min-width 900 */
 
@@ -363,14 +375,12 @@ margin-top: 0;
 
 @media (min-width: 1200px){
 
-/* this applies average laptops */
+  .project-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    padding: 5px 30px;
+    }
 
 }/*   end min-width 1200 */
 
-
-
-@media (min-width: 1800px){
-
-/* this applies to large laptops and desktops */
-
-}/*   end min-width 1800 */
