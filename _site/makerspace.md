@@ -63,6 +63,54 @@ There were a few problems involving the Makerspace. The main problem at hand is 
     </img>
     </figure>
 </section>
+
+<p>For the physical product we did a pop-up card, as it was something different and would add an interesting touch to our project. As this was the part of the project that I was in charge of, I drafted rough ideas of what our card would look like.</p>
+<section class="project-img">
+<figure>
+    <img src="/images/firstsketch.JPG" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/cardpopup.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/popupsketch.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/popupsketch2.JPG" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/pop-up.jpg.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/pop-up1.jpg.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+</section>
+<h2>These are the final pop-up images</h2>
+<section class="project-img">
+    <figure>
+        <img src="/images/finalpopup1,jpg.jpg" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+    <figure>
+        <img src="/images/finalpopup2.jpg" alt="">
+            <figcaption></figcaption>
+        </img>
+    </figure>
+</section>
+
 </section>
 
 <div class="back-button">
