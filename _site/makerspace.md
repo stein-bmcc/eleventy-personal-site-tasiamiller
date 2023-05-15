@@ -20,24 +20,24 @@ There were a few problems involving the Makerspace. The main problem at hand is 
 
 <section class="project-img">
 <figure>
-    <img src="/images/workshop_flyer.jpg" alt="Makerspace Workshop">
-        <figcaption>This is my iteration of the workshop flyer using elements made by my group mate Nicole.</figcaption>
-    </img>
+<img src="/images/workshop_flyer.jpg" alt="Makerspace Workshop">
+<figcaption>This is my iteration of the workshop flyer using elements made by my group mate Nicole.</figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/universalflyerver1.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/universalflyerver1.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/universalflyerver2.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/universalflyerver2.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/universalflyerver3.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/universalflyerver3.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 </section>
 <p>    For this project, we created a campaign involving one or more multimedia types to help widen how many people interact with our focus. From the beginning we decided we wanted to do flyers (both digital and physical); acrylic keychains or pin badges; a workshop event and a pop-up card. For the acrylic keychains and badges, we got to host our workshop event for fellow BMCC (Borough of Manhattan Community College) students and guide them through designing their keychains or badges which were made using the Makerspace’s laser cuter run by the lab manager, Kar. </p>
@@ -53,62 +53,62 @@ There were a few problems involving the Makerspace. The main problem at hand is 
 </img>
 </figure>
 <figure>
-    <img src="/images/workshopimage20.png" alt="Picture from our workshop with students attending">
-    <figcaption>Picture from our workshop of students on the other side of the room</figcaption>
-    </img>
-    </figure>
-    <figure>
-    <img src="/images/workshopimage.png" alt="Image of me and Loverta helping out students">
-    <figcaption>Image of front of the room</figcaption>
-    </img>
-    </figure>
+<img src="/images/workshopimage20.png" alt="Picture from our workshop with students attending">
+<figcaption>Picture from our workshop of students on the other side of the room</figcaption>
+</img>
+</figure>
+<figure>
+<img src="/images/workshopimage.png" alt="Image of me and Loverta helping out students">
+<figcaption>Image of front of the room</figcaption>
+</img>
+</figure>
 </section>
 
 <p>For the physical product we did a pop-up card, as it was something different and would add an interesting touch to our project. As this was the part of the project that I was in charge of, I drafted rough ideas of what our card would look like.</p>
 <section class="project-img">
 <figure>
-    <img src="/images/firstsketch.JPG" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/firstsketch.JPG" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/cardpopup.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/cardpopup.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/popupsketch.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/popupsketch.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/popupsketch2.JPG" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/popupsketch2.JPG" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/pop-up.jpg.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/pop-up.jpg.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 <figure>
-    <img src="/images/pop-up1.jpg.jpg" alt="">
-        <figcaption></figcaption>
-    </img>
+<img src="/images/pop-up1.jpg.jpg" alt="">
+<figcaption></figcaption>
+</img>
 </figure>
 </section>
 <h2>These are the final pop-up images</h2>
 <section class="project-img">
-    <figure>
-        <img src="/images/finalpopup1,jpg.jpg" alt="">
-            <figcaption></figcaption>
-        </img>
-    </figure>
-    <figure>
-        <img src="/images/finalpopup2.jpg" alt="">
-            <figcaption></figcaption>
-        </img>
-    </figure>
+<figure>
+<img src="/images/finalpopup1,jpg.jpg" alt="">
+<figcaption></figcaption>
+</img>
+</figure>
+<figure>
+<img src="/images/finalpopup2.jpg" alt="">
+<figcaption></figcaption>
+</img>
+</figure>
 </section>
 
 </section>

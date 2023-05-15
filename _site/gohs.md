@@ -3,8 +3,8 @@ title: God Of HighSchool Show Website Prototype
 layout: base
 pageClass: twoCol
 tags:
-  - ux
-  
+- ux
+
 ---
 <section class="project-description">
 <h1>
@@ -13,23 +13,29 @@ TV SHOW WEBSITE PROTOTYPE
 <p>
 For this project, I was tasked with creating a two-page layout for a show of my choice. This assignment was a way to test how well we could follow a layout blueprint. I used one of my favorite anime, “God of High School” because I wanted to challenge myself. I also chose "God of High School" because it deserves more credit and attention than it received at the time of its release. I made a prototype using Figma before translating it to HTML and CSS. 
 </p>
+<p>
+  <a href="https://www.figma.com/file/sBLlNArqZkziOi3QTduwMp/midterm-(Copy)?type=design&node-id=126%3A166&t=RhngCreENoQ5z9mK-1"> Link To Figma View</a>
+</p>
+<p>
+  <a href="https://mmp240.netlify.app/midtermshowsite/episodes.html">Link To Site Prototype</a>
+</p>
 </section>
 <section class="project-img">
 <h3>The following are screenshots of the final product</h3>
 <figure>
-  <img src="/images/gohs about.jpg" alt="The About Page">
-    <figcaption>About Page</figcaption>
-  </img>
+<img src="/images/gohs about.jpg" alt="The About Page">
+<figcaption>About Page</figcaption>
+</img>
 </figure>
 <figure>
-  <img src="/images/gohs episodes.jpg" alt="episodes">
-    <figcaption>Episodes Page</figcaption>
-  </img>
+<img src="/images/gohs episodes.jpg" alt="episodes">
+<figcaption>Episodes Page</figcaption>
+</img>
 </figure>
 
 </section>
 <section class="related-projects">
-  <h2>More Like This</h2>
+<h2>More Like This</h2>
 <ul>
 {% for project in collections.ux -%}
 <li><a href="{{project.url}}">{{project.data.title}}</a></li>
@@ -37,5 +43,5 @@ For this project, I was tasked with creating a two-page layout for a show of my 
 </ul>
 </section>
 <div class="back-button">
-  <h3><a href="/ux-ui">Back To UX/UI Desgins</a></h3>
+<h3><a href="/ux-ui">Back To UX/UI Desgins</a></h3>
 </div>
