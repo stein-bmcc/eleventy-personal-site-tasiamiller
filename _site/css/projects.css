@@ -41,7 +41,7 @@ transform: translate(0px, -5px);
 box-shadow: 0px 5px 30px #999;  
 }
 /* card styling end */
-@media (max-width:650px){
+@media (max-width:600px){
 .project-container{
 display: grid;
 grid-template-columns: 1fr;
@@ -50,7 +50,7 @@ margin: 5rem;
 align-content: center;
 }  }
 
-@media (max-width: 789px){
+@media (min-width: 900px){
 
 .project-container{
 display: grid;
