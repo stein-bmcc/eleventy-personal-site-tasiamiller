@@ -16,8 +16,30 @@ For this project, I teamed up with my classmates Loverta Brown and Nicole Duque 
 There were a few problems involving the Makerspace. The main problem at hand is that the Makerspace doesn’t have a constant stream of funding which makes it very difficult for the lab manager, Kar Rosen, to stay employed and properly compensated for their work for the Makerspace. Another problem is that not many students know about the Makerspace, therefore aren’t utilizing the equipment often and most only learn of the space during their final semester if at all. We aim to make sure that not only will the Makerspace get more attention through physical products and posters but also make sure that the Makerspace lab manager stays employed since they know best how to use the equipment. 
 </p>
 
-<p>My position was product designing, which ended up being the pop-up card but before getting to that, we had much planning and designing to do. For several weeks our focus was on coming up with a working design for the workshop flyer, as that needed to be done early enough for us to garner attention to get participants for the workshop we wanted to run.  </p>
+<p>My position was product designing, which ended up being the pop-up card but before getting to that, we had a lot of things to do before we got to that. As this was a group project, we all pitched in for certain aspects of the project such as working on the flyer designs and product assembly.  We created several iterations of both the workkshop and universal flyers and these are my drafts:  </p>
 
+<section class="project-img">
+<figure>
+    <img src="/images/workshop_flyer.jpg" alt="Makerspace Workshop">
+        <figcaption>This is my iteration of the workshop flyer using elements made by my group mate Nicole.</figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/universalflyerver1.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/universalflyerver2.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+<figure>
+    <img src="/images/universalflyerver3.jpg" alt="">
+        <figcaption></figcaption>
+    </img>
+</figure>
+</section>
 <p>    For this project, we created a campaign involving one or more multimedia types to help widen how many people interact with our focus. From the beginning we decided we wanted to do flyers (both digital and physical); acrylic keychains or pin badges; a workshop event and a pop-up card. For the acrylic keychains and badges, we got to host our workshop event for fellow BMCC (Borough of Manhattan Community College) students and guide them through designing their keychains or badges which were made using the Makerspace’s laser cuter run by the lab manager, Kar. </p>
 <section class="project-img">
 <figure>
@@ -30,6 +52,16 @@ There were a few problems involving the Makerspace. The main problem at hand is 
 <figcaption>Image of me and Loverta helping out students</figcaption>
 </img>
 </figure>
+<figure>
+    <img src="/images/workshopimage20.png" alt="Picture from our workshop with students attending">
+    <figcaption>Picture from our workshop of students on the other side of the room</figcaption>
+    </img>
+    </figure>
+    <figure>
+    <img src="/images/workshopimage.png" alt="Image of me and Loverta helping out students">
+    <figcaption>Image of front of the room</figcaption>
+    </img>
+    </figure>
 </section>
 </section>
 
