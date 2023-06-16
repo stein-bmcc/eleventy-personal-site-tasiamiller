@@ -1,0 +1,56 @@
+body{
+margin: 0; /* this allows nav to fill entire width */
+}
+.site-header{
+display: flex;
+align-content: space-between;
+align-items: baseline; /* aligns bottom of text */
+align-items: center; /* aligns on center line */
+gap: 10px;
+flex-wrap: wrap;
+padding:10px;
+margin: 0;
+/*   Add this if you want the nav to stay at the top on scroll*/
+/*   position: sticky;
+top: 0; */
+}
+
+.site-title, .site-nav{
+white-space: nowrap;
+/*   outline: 1px blue solid; */
+}
+
+.site-title{
+flex-grow:1;
+/*   aligns (pushes) the nav to the right */
+}
+.site-title h1{
+margin: 0;
+/*   padding: 0; */
+}
+.site-title h1 a{
+    text-decoration: none;
+    color: black;
+}
+.site-nav a{
+text-align: center;
+text-decoration: none;
+padding: 1rem;
+color: black;
+}
+.site-nav a:hover{
+background-color: lavender;
+}
+
+@media (max-width: 400px){
+.site-title, .site-nav{
+text-align: center;
+}
+.site-nav{
+/*     align-self: center; */
+flex-grow: 1;
+}
+.site-nav a{
+padding: 0 10px;
+}
+}

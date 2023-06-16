@@ -1,13 +1,17 @@
 ---
-title: Welcome
-date: Created
+title: Moni's Mindscape
 layout: base
 tags:
-  - home
   - welcome
-  - info
 ---
-<h2 class="mainHeading">Main Content</h2>
-<section class="content">
-  <p>Add your own content. You can delete all of the content on this page after the front-matter.</p>
-</section>
+<div class="intro">
+<div class="intro-text">
+<h1> Meet Moni: The Mind Behind the 'Scape</h1>
+<p>
+  I am Tasia Miller, the creator of Moni’s Mindscape. I came up with this title because I think of my digital work as a different part of me from the ever-active reaches of my mind. Moni is a nickname I’ve given myself based on my middle name. I am an inspiring multimedia artist based in New York City. I studied Computer Information Sciences, and Multimedia Production and Design. I am passionate about Graphic Design and Web Development.  Welcome to my little slice of heaven. :) 
+</p>
+</div>
+<div class="intro-image">
+<img src="/images/moni.png" alt="A cartoon image of Moni">
+</div>
+</div>

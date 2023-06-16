@@ -1,0 +1,386 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400;1,500;1,600;1,700&family=Yanone+Kaffeesatz:wght@200;300;400;700&display=swap');
+/*If using Google Fonts or other system to import fonts, then add import CSS for that above on line */
+
+
+/* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography 
+Much of this is modified from two original sources
+HTML 5 Doctor Reset: http://html5doctor.com/html-5-reset-stylesheet/
+This is in the public domain. It has been modified to remove things redundant with Normalize and separate out styles that may need to be styled separately.
+Normalize.css: git.io/normalize 
+The version modified is: normalize.css v3.0.1 | MIT License
+A few pieces of normalize.css that more directly affected typographic choices (such as font-family) were moved here so normalize.css could be more or less left alone.
+*/
+
+/* ==================================================================== 
+RESPONSIVE PREPARATION 
+==================================================================== 
+Use these "as is"
+*/
+
+/*The following 7 lines are from Paul Irish and apply a border-box model. 
+See this page for more info: http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+/* Basic Responsive Images and Video */
+img,video{
+width: auto; 
+height: auto;
+max-width: 100%; 
+}
+
+
+/* Embedded Video Styles
+These can be used to help add embedded video content, like YouTube videos, to your page. 
+These styles require you set up your HTML in a specific way. 
+See this CodePen for an example of it in use: http://codepen.io/profstein/pen/mArLRj
+*/
+
+.videoWrapper {
+position: relative;
+padding-top: 25px;
+height: 0;
+}
+
+.videoWrapper.ratio-16-9{
+padding-bottom: 56.25%; /* 16:9 aspect ratio video */
+}
+
+.videoWrapper.ratio-4-3{
+padding-bottom: 75%; /* 4:3 aspect ratio video */
+}
+
+.videoWrapper iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+/* ==========================================================================
+Your Typography
+font-family: 'Bruno Ace SC', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+================================================== ======================= */
+
+html {font-size: 1em;}
+
+body {
+font-family: 'Playfair Display', serif;
+font-weight: 200;
+line-height: 1.8;
+color: #333;
+
+/*   there are other ways to do this but it's good to remember not to let text run right up to the edge of borders or color changes, images etc.' */
+/*   padding: 1em; */
+}
+
+/* This adds space between paragraphs and list items
+NOTE: most Navigations use list items so you will need to 
+explicity set the margins on those so this rule doesn't 
+mess up your navigation styling */
+p, li {
+margin-top: 0;
+margin-bottom: 1em;
+}
+
+/* Base Styling for headings  */
+h1, h2, h3, h4, h5, h6 {
+font-weight: 400;
+font-family: 'Bruno Ace SC', cursive;
+}
+
+/* For each of your headings at minimum set the margin, size, line-height. Adjust font-weight and other properties as needed. */
+
+h1 {
+font-size: 2em;
+line-height: 1;
+margin: 0 0 0.5em 0;
+}
+
+h2 {
+font-size: 1.5em;
+line-height: 1.2;
+margin: 1.5em 0 0.5em 0;
+}
+
+h3 {
+font-size: 1em;
+line-height: 1;
+margin: 1.5em 0 0.25em 0;
+}
+
+/* h4 {
+font-size: 1.5em;
+line-height: 1;
+margin: 1.5em 0 0.5em 0;
+}
+
+h5 {
+font-size: 1em;
+line-height: 1;
+margin: 1.5em 0 0.5em 0;
+
+}
+
+h6 {
+font-size: 1em;
+line-height: 1.5;
+margin: 1em 0 0 0;
+font-weight: 400; /* normal 
+text-transform: uppercase;
+} 
+
+
+/* ==========================================================================
+Your CSS
+You can change this comment and add in your own CSS below
+================================================== ======================= 
+/* CSS here for every devices (import fonts, set base typography, base responsive styles, colors etc). */
+
+body{
+padding: 0;
+margin: 0;
+background:#d2c3de;
+background: linear-gradient(174deg, rgba(37,111,250,1) 15%, rgba(217,194,223,1) 68%); 
+height: 100;
+}
+
+.page-content{
+margin-top: 60px;
+}
+/* nav edit*/
+.site-nav a:hover{
+color: black;
+}
+/* end of nav edits */
+
+/* start of intro styling*/
+.intro{
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 40px;
+max-width: 1500px;
+margin: 0 auto;
+}
+.intro-text h1{
+font-size: 2rem;
+}
+.intro-text p{
+line-height: 2em;
+}
+/*intro page end*/
+
+/*projects page*/
+.project-card{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 40px;
+padding: 5px 30px;
+}
+
+.project{
+border-radius: 10px;
+margin-bottom: 0.5em;
+}
+
+.title-card-ux:hover{
+filter: grayscale(100%);
+}
+.title-card-gp:hover{
+filter: grayscale(100%);
+}
+.project-card img{
+padding: 20px;
+}
+
+.project-img{
+margin: 2rem;
+border-radius: 15px;
+display: grid;
+grid-template-columns:repeat(auto-fit, minmax(450px,1fr));
+gap:30px;
+}
+.twoCol .project-img{
+grid-template-columns: 1fr 1fr;
+}
+.threeCol .project-img{
+grid-template-columns: 1fr 1fr 1fr; 
+}
+.oneCol .project-img{
+grid-template-columns: 1fr;
+}
+.project-img h3{
+grid-column:1/-1;
+text-align: center;
+}
+
+.title-card{
+margin-bottom: 0.5em;
+}
+.title-card h1{
+padding: 0.5em 0.5em 0 0.5em;
+}
+
+.title-card{
+display: inline-block
+}
+
+.project-description{
+max-width: 70ch;
+margin: 0 auto;
+line-height: 1.5;
+}
+
+.project-description p a{
+text-decoration: none;
+color: #170713;
+}
+.project-description p a:hover{
+color: #9b287e; 
+}
+
+/*projects end*/
+/* ux page styling */
+.ui-container{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 3rem;
+}
+
+.related-projects a{
+text-decoration: none;
+color: #040d12;
+}
+.related-projects a:hover{
+color: #457fa0;
+}
+.related-projects a:visited{
+color: #520fb6;
+}
+.related-projects a:visited:hover{
+color: #9b287e;
+}
+.ui-container h1{
+grid-column:1/-1;
+text-align: center;
+}
+/* ux styling end */
+.site-footer{
+clear: both;
+text-align: center;
+}
+
+.back-button{
+clear: both;
+}
+.back-button h3 a{
+text-decoration: none;
+color: #333;
+
+}
+.back-button h3 a:hover{
+color: #9b287e;
+}
+/*  Contact Page start*/
+* {
+box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+width: 100%;
+padding: 12px;
+border: 1px solid #ccc;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
+}
+
+input[type=submit] {
+background-color: #04AA6D;
+color: white;
+padding: 12px 20px;
+border: none;
+cursor: pointer;
+}
+
+input[type=submit]:hover {
+background-color: #457fa0;
+}
+
+/* Style the container/contact section */
+.container {
+margin: auto;
+border-radius: 5px;
+background-color: #d2c3de;
+padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+float: left;
+width: 50%;
+margin-top: 6px;
+padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+/*Contact Page End  */
+/* Css here for your base grid that applies to mobile devices */
+
+
+@media (max-width: 650px){
+.column, input[type=submit] {
+width: 100%;
+margin-top: 0;}
+
+.project-card{
+display: grid;
+grid-template-columns:1fr;
+gap: 40px;
+padding: 5px 30px;
+}
+
+
+}/*   end min-width 600 */
+
+
+
+@media (max-width: 900px){
+
+.project-card{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 40px;
+padding: 5px 30px;
+}
+
+}/*   end min-width 900 */
+
+
+
+@media (min-width: 1200px){
+
+.project-card{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 40px;
+padding: 5px 30px;
+}
+
+}/*   end min-width 1200 */
+

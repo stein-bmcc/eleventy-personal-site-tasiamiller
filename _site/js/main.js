@@ -1,3 +1,9 @@
-// You can include your own javascript here
-// alert("hello, your main.js file was added properly.");
-console.log("Logging from main.js, it was loaded.");
+// IIFE - Immediately Invoked Function Expression
+// this is used instead of $("document").ready(function()
+//that you may see in examples or places you copy code
+(function ($, window, document) {
+
+  // Write your jQuery JavaScript here!
+  
+})(window.jQuery, window, document);
+// The global jQuery object is passed as a parameter
